@@ -3,7 +3,7 @@ This project explores music store data with SQL, uncovering customer trends & ge
 
 Schema - Music Store Database
 
-https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/439e613c-5ff4-4bda-aad4-19eca760dbf6">
 
 ## Data Used
 
