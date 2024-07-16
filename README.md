@@ -1,11 +1,14 @@
 # Music_Store_Analysis_SQL
 This project explores music store data with SQL, uncovering customer trends & genre popularity.
+
 Schema - Music Store Database
-https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png
+
+
 
 ## Data Used
 
 Data - Music Store Data with over 24 countries from the year 2017 to 2020
+
 Data Analysis - SQL Server Management Studio
 
 ## Questions
@@ -44,7 +47,7 @@ For countries where the top amount spent is shared, provide all customers who sp
 
 ## Summary of Findings
 
-• Our analysis revealed that Rock music enjoys widespread popularity across a significant number of countries. This suggests that catering to rock fans through targeted promotions or events could be a strategic move.
+• The analysis revealed that Rock music enjoys widespread popularity across a significant number of countries. This suggests that catering to rock fans through targeted promotions or events could be a strategic move.
 
 • The United States emerged as the top contributor in terms of invoice generation. This highlights the importance of this market and potentially warrants focusing marketing efforts or allocating additional resources there.
 
